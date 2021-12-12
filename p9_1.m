@@ -13,7 +13,7 @@ clear all; close all; clc
 % Specimen geometry
 L_0 = 50.8e-3;      % m
 d_0 = 6.35e-3;      % m
-A_0 = pi*(d_0^2)/4; % initial cross-sectional area in mm^2
+A_0 = pi*(d_0^2)/4; % initial cross-sectional area in m^2
 
 % Filename
 filename = '316_SS_tension.txt';
